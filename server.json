@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.crawde/xmorf",
-  "description": "MCP server for xmorf — AI image editing and generation. 3 tools: edit images with 8 AI models (standard, enhance, upscale, shadow, kiss, skin, angles, scene), generate images from text, and list available models.",
+  "description": "AI image editing and generation via xmorf API. Edit, generate, and list models.",
   "repository": {
     "url": "https://github.com/crawde/mcp-xmorf",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "mcp-xmorf",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "transport": {
         "type": "stdio"
       },

@@ -1,6 +1,6 @@
 {
   "name": "mcp-xmorf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mcpName": "io.github.crawde/xmorf",
   "description": "MCP server for xmorf — AI image editing and generation API",
   "type": "module",
